@@ -1,0 +1,16 @@
+pkgbase = poof-bin
+	pkgdesc = Magic manager of pre-built software (Prebuilt Binary)
+	pkgver = 0.5.2
+	pkgrel = 1
+	url = https://github.com/pirafrank/poof
+	arch = x86_64
+	arch = aarch64
+	license = MIT
+	provides = poof
+	conflicts = poof
+	source_x86_64 = https://github.com/pirafrank/poof/releases/download/v0.5.2/poof-0.5.2-x86_64-unknown-linux-gnu.tar.gz
+	sha256sums_x86_64 = c2d0ead715873506121726a021d5d09429c6f28b7879e999789cf04fce93d6e4
+	source_aarch64 = https://github.com/pirafrank/poof/releases/download/v0.5.2/poof-0.5.2-aarch64-unknown-linux-gnu.tar.gz
+	sha256sums_aarch64 = 798a9138fc90c037c63b0bdb47a1fad8ed8e12bde81dccc2198ee1b8cb2e8e9c
+
+pkgname = poof-bin
