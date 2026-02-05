@@ -1,5 +1,7 @@
 # AUR poof-bin package
 
+<https://aur.archlinux.org/packages/poof-bin>
+
 ## Pre
 
 ```sh
